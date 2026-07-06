@@ -245,15 +245,7 @@ python train.py
 
 ---
 
-## Author
-
-**Aditi Raj**
-- 🎓 Final Year B.Tech CSE (AI/ML), VIT Bhopal — CGPA 8.1
-- 🏆 Selected: Amazon ML Summer School 2025
-- 📧 aditiraj0129@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/aditi-raj-330459295)
-- 🐙 [GitHub](https://github.com/aditiraj0129-netizen)
-
+Built by Tanmay Agnihotri
 ---
 
 *Built as part of Flipkart Grid preparation — demonstrating production-grade ML systems thinking, not just model training.*
