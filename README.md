@@ -368,9 +368,7 @@ Final Year B.Tech CSE (AI/ML) ·
 
 Solved 250+ DSA problems (LeetCode + GFG)
 
-📧 aditiraj0129@gmail.com  
-💼 [linkedin.com/in/aditi-raj-330459295](https://linkedin.com/in/aditi-raj-330459295)  
-🐙 [github.com/aditiraj0129-netizen](https://github.com/aditiraj0129-netizen)
+
 
 ---
 
